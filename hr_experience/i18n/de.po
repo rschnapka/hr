@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: OpenERP Server 7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-12-18 17:21+0000\n"
-"PO-Revision-Date: 2015-01-01 18:06+0100\n"
-"Last-Translator: Rudolf Schnapka <schnapkar@golive-saar.de>\n"
+"PO-Revision-Date: 2015-08-27 14:47+0200\n"
+"Last-Translator: Rudolf Schnapka <rs@techno-flex.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 1.8.4\n"
 "Language: de\n"
 
 #. module: hr_experience
@@ -167,7 +167,7 @@ msgstr ""
 #. module: hr_experience
 #: view:hr.certification:0
 msgid "certifications"
-msgstr ""
+msgstr "Zertifizierungen"
 
 #. module: hr_experience
 #: view:hr.employee:0
@@ -190,4 +190,3 @@ msgstr "Partner"
 #: model:ir.ui.menu,name:hr_experience.menu_open_view_professional_form
 msgid "Professional Experiences"
 msgstr "Berufliche Erfahrungen"
-

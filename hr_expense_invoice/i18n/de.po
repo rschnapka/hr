@@ -1,0 +1,35 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* hr_expense_invoice
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-27 14:23+0200\n"
+"PO-Revision-Date: 2015-08-27 14:26+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.4\n"
+"Last-Translator: Rudolf Schnapka <rs@techno-flex.de>\n"
+"Language: de\n"
+
+#. module: hr_expense_invoice
+#: code:addons/hr_expense_invoice/models/hr_expense_expense.py:49
+#, python-format
+msgid ""
+"Cannot reconcile supplier invoice payable with generated line. Please check "
+"amounts and see if the invoice is already added or paid. Invoice: %s"
+msgstr ""
+"Kann Lieferantenrechnung mit erzeugter Position nicht begleichen. Prüfen "
+"Sie bitte die Beträge und scheuen Sie, ob die Rechnung schon hinzugefügt "
+"ist oder beglichen ist.\n"
+"Rechnung: %s"
+
+#. module: hr_expense_invoice
+#: field:hr.expense.line,invoice:0
+msgid "Invoice"
+msgstr "Rechnung"
