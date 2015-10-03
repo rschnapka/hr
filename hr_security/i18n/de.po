@@ -1,0 +1,54 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * hr_security
+#
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: hr (8.0)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-03 11:56+0200\n"
+"PO-Revision-Date: 2015-10-03 11:59+0200\n"
+"Language-Team: English (http://www.transifex.com/oca/OCA-hr-8-0/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.3\n"
+"Last-Translator: Rudolf Schnapka <rs@techno-flex.de>\n"
+"Language: de\n"
+
+#. module: hr_security
+#: model:res.groups,name:hr_security.group_hr_director
+msgid "HR Director"
+msgstr "Personalleiter"
+
+#. module: hr_security
+#: model:res.groups,name:hr_security.group_payroll_manager
+msgid "Payroll Manager"
+msgstr "Leiter Lohnbuchhaltung"
+
+#. module: hr_security
+#: model:res.groups,name:hr_security.group_payroll_user
+msgid "Payroll User"
+msgstr "Lohn Anwender"
+
+#. module: hr_security
+#: view:hr.employee:hr_security.hr_hr_employee_view_form2
+msgid "base.group_user"
+msgstr ""
+
+#. module: hr_security
+#: model:res.groups,comment:hr_security.group_payroll_manager
+msgid "the user will do final payroll processing"
+msgstr "der Anwender wird abschließende Lohnabrechnung vornehmen"
+
+#. module: hr_security
+#: model:res.groups,comment:hr_security.group_payroll_user
+msgid "the user will do payroll processing"
+msgstr "der Anwender wird Lohnabrechnung vornehmen"
+
+#. module: hr_security
+#: model:res.groups,comment:hr_security.group_hr_director
+msgid "the user will have final approval of some HR Documents"
+msgstr "der Anwender wird die abschließende Freigabe einiger Personaldokumente vornehmen"
